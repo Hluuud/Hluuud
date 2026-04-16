@@ -9,10 +9,6 @@
 🚀 Founder of <strong>Vexis</strong> — delivering automation, SaaS and digital solutions
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hluuud/Hluuud/output/snake.svg" alt="Snake animation" />
-
 ---
 
 ## 🧠 Tech Stack & Tools
