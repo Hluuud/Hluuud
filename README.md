@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Luiz Eduardo and I'm a DevOps & Automation Engineer</h2>
+<h2 align="center">Hi 👋! My name is Luiz Eduardo and I'm a DevOps & Automation Engineer</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hluuud&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Hluuud&theme=tokyonight" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hluuud&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
 </div>
 
